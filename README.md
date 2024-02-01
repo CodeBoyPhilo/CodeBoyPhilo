@@ -25,7 +25,7 @@ Greetings! This is Philo Wu. I am currently an Honours student in Business Analy
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-120-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-128-blue)
 
 **I'm a Night 🦉** 
 
@@ -67,5 +67,5 @@ Mac                      0 secs              ███████████�
 ```
 
 
- Last Updated on 01/02/2024 09:31:51 UTC
+ Last Updated on 01/02/2024 12:29:16 UTC
 <!--END_SECTION:waka-->
