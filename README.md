@@ -23,9 +23,9 @@ Greetings! This is Philo Wu. I am currently an Honours student in Business Analy
 - **Tools**: Git, Docker, Neo4j.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-29%20hrs%2056%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-161-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 
 **I'm a Night 🦉** 
 
@@ -73,5 +73,5 @@ Mac                      2 hrs 28 mins       ███████████�
 ```
 
 
- Last Updated on 14/02/2024 01:09:45 UTC
+ Last Updated on 14/02/2024 12:29:44 UTC
 <!--END_SECTION:waka-->
