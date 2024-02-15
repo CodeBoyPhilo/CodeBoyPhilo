@@ -1,6 +1,8 @@
 ## <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> Hi there!
 
-### About me
+## About me
+
+[🌏 Click To See More](https://philowu.notion.site/philowu/Philo-Hao-Wu-8bc7b2a81217493399d7db22df70fbfd)
 
 [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](#)
