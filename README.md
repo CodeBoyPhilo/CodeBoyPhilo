@@ -11,14 +11,12 @@
 
 Greetings! This is Philo Wu. I am currently an Honours student in Business Analytics \@ University of Sydney. I am dedicated to machine learning and deep learning fields. I also enjoy develop some Python-based cool gadgets that are ~~useless~~ useful to serve my needs. Please check them out!
 
-- 🔭 I’m currently working on **Early Fake News Detection using GNN**
-- 🌱 I’m currently learning **Non-Convex Optimisation**
-- 🤔 I’m looking for help with frontend deployment of some of my models
-- 💬 Ask me about Everything!
+- 🔭 I’m currently working on **Knowledge Graph Guided LLM QA**
+- 🌱 I’m currently learning **LLM fine-tuning**
 - 📫 How to reach me: philo_wu@outlook.com
 
 ## 🛠 Technologies and Tools
-- **Languages**: Python, PostgreSQL, Cypher, Shell Script.
+- **Languages**: Python, PostgreSQL, Cypher, Shell Script, and more
 - **Frameworks**: PyTorch.
 - **Tools**: Git, Docker, Neo4j.
 
