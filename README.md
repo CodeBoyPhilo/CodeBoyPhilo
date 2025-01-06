@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently an Honours student in Business Analy
 - **Tools**: Git, Docker, Neo4j.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-653%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -52,8 +52,8 @@ Sunday                   69 commits          ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       ███████████████████████░░   90.20 % 
-Bash                     17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Python                   2 hrs 57 mins       ██████████████████████░░░   89.80 % 
+Bash                     18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
@@ -65,5 +65,5 @@ Mac                      3 hrs 17 mins       ███████████�
 ```
 
 
- Last Updated on 05/01/2025 12:37:49 UTC
+ Last Updated on 06/01/2025 01:43:35 UTC
 <!--END_SECTION:waka-->
