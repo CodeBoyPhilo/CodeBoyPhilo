@@ -13,7 +13,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 
 - 🔭 I’m currently working on **Knowledge Graph Guided LLM QA**
 - 🌱 I’m currently learning **LLM fine-tuning**
-- 📫 How to reach me: philo_wu@outlook.com
+- 📫 How to reach me: philo.wu@codeboyphilo.ai
 
 ## 🛠 Technologies and Tools
 - **Languages**: Python, PostgreSQL, Cypher, Shell Script, and more
