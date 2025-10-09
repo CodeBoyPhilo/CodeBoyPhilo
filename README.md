@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C164%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -52,16 +52,19 @@ Sunday                   120 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    3 hrs 15 mins       █████████████████████████   99.79 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    4 hrs 22 mins       ████████████████████████░   97.63 % 
+Nix                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-Firefox                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Firefox                  4 hrs 27 mins       █████████████████████████   99.79 % 
+Neovim                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Linux                    3 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/10/2025 12:49:37 UTC
+ Last Updated on 09/10/2025 01:46:18 UTC
 <!--END_SECTION:waka-->
