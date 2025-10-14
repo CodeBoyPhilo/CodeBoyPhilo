@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C175%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C184%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -68,5 +68,5 @@ Mac                      1 min               ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 14/10/2025 01:46:53 UTC
+ Last Updated on 14/10/2025 12:51:51 UTC
 <!--END_SECTION:waka-->
