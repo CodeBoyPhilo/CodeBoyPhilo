@@ -21,52 +21,8 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C224%20hrs%2035%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                90 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-🌆 Daytime                409 commits         ███████░░░░░░░░░░░░░░░░░░   27.49 % 
-🌃 Evening                691 commits         ████████████░░░░░░░░░░░░░   46.44 % 
-🌙 Night                  298 commits         █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   220 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Tuesday                  191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-Wednesday                302 commits         █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Thursday                 214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
-Friday                   184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Saturday                 154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Sunday                   223 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Australia/Sydney
-
-💬 Programming Languages: 
-Other                    14 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   40.03 % 
-Markdown                 6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Python                   4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Nix                      2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
-JavaScript               1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
-
-🔥 Editors: 
-Neovim                   21 hrs 43 mins      ███████████████░░░░░░░░░░   61.58 % 
-Firefox                  13 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.42 % 
-
-💻 Operating System: 
-Linux                    35 hrs 10 mins      █████████████████████████   99.74 % 
-Mac                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-```
-
-
- Last Updated on 17/05/2026 13:41:47 UTC
+ Last Updated on 18/05/2026 04:08:26 UTC
 <!--END_SECTION:waka-->
