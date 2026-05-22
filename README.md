@@ -23,7 +23,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C278%20hrs%208%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -67,5 +67,5 @@ Linux                    28 hrs 30 mins      ███████████�
 ```
 
 
- Last Updated on 22/05/2026 04:06:12 UTC
+ Last Updated on 22/05/2026 14:49:18 UTC
 <!--END_SECTION:waka-->
