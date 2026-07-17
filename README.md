@@ -21,8 +21,53 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C541%20hrs%2044%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 16/07/2026 14:04:32 UTC
+```text
+🌞 Morning                145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+🌆 Daytime                601 commits         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
+🌃 Evening                944 commits         ███████████░░░░░░░░░░░░░░   45.80 % 
+🌙 Night                  371 commits         ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   323 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Tuesday                  260 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.62 % 
+Wednesday                398 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Thursday                 307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+Friday                   224 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
+Saturday                 240 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Sunday                   309 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Australia/Sydney
+
+💬 Programming Languages: 
+Python                   13 hrs 59 mins      ████████░░░░░░░░░░░░░░░░░   32.35 % 
+Markdown                 11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.58 % 
+Other                    9 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
+TeX                      4 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+YAML                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+
+🔥 Editors: 
+Claude Code              17 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   40.35 % 
+Neovim                   16 hrs 56 mins      ██████████░░░░░░░░░░░░░░░   39.18 % 
+Firefox                  8 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+
+💻 Operating System: 
+Linux                    43 hrs 15 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 17/07/2026 03:13:28 UTC
 <!--END_SECTION:waka-->
