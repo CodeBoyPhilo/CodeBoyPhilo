@@ -21,8 +21,6 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2027%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **I'm a Night 🦉** 
@@ -52,23 +50,22 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Python                   14 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   31.17 % 
-Other                    13 hrs 36 mins      ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Markdown                 11 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-TypeScript               2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-TeX                      1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    16 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.77 % 
+Python                   13 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Markdown                 11 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
+TypeScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 🔥 Editors: 
-Neovim                   18 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.10 % 
-Claude Code              16 hrs 57 mins      █████████░░░░░░░░░░░░░░░░   35.43 % 
-Firefox                  12 hrs 23 mins      ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
-Codex CLI                17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Neovim                   17 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.41 % 
+Firefox                  15 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
+Claude Code              14 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.12 % 
+Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Linux                    47 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    47 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 24/07/2026 13:54:34 UTC
+ Last Updated on 25/07/2026 03:15:01 UTC
 <!--END_SECTION:waka-->
