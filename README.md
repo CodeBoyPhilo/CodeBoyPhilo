@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C624%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C615%20hrs%2030%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,22 +52,21 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    16 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.77 % 
-Python                   13 hrs 43 mins      ███████░░░░░░░░░░░░░░░░░░   28.61 % 
-Markdown                 11 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-TypeScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
-TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Other                    16 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
+Python                   16 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.14 % 
+Markdown                 10 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
+Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
 
 🔥 Editors: 
-Neovim                   17 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   36.41 % 
-Firefox                  15 hrs 54 mins      ████████░░░░░░░░░░░░░░░░░   33.18 % 
-Claude Code              14 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   30.12 % 
-Codex CLI                8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Neovim                   19 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.97 % 
+Firefox                  16 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
+Claude Code              14 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
 
 💻 Operating System: 
-Linux                    47 hrs 56 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 13:45:11 UTC
+ Last Updated on 26/07/2026 03:27:18 UTC
 <!--END_SECTION:waka-->
