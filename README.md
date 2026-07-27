@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C624%20hrs%2019%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,21 +52,21 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    16 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.20 % 
-Python                   16 hrs 15 mins      ████████░░░░░░░░░░░░░░░░░   32.14 % 
-Markdown                 10 hrs 47 mins      █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
-Bash                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    18 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.30 % 
+Python                   18 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
+Markdown                 9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
+Bash                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Neovim                   19 hrs 42 mins      ██████████░░░░░░░░░░░░░░░   38.97 % 
-Firefox                  16 hrs 44 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
-Claude Code              14 hrs 7 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Neovim                   20 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
+Firefox                  19 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.36 % 
+Claude Code              14 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   26.36 % 
 
 💻 Operating System: 
-Linux                    50 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    54 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/07/2026 13:39:57 UTC
+ Last Updated on 27/07/2026 03:36:40 UTC
 <!--END_SECTION:waka-->
