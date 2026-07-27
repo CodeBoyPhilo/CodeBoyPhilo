@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C624%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -52,21 +52,21 @@ Sunday                   304 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    18 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   34.30 % 
-Python                   18 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   33.24 % 
-Markdown                 9 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Bash                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-TeX                      1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Other                    21 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.43 % 
+Python                   17 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   30.59 % 
+Markdown                 8 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Bash                     4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Text                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 19 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
-Firefox                  19 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   36.36 % 
-Claude Code              14 hrs 22 mins      ███████░░░░░░░░░░░░░░░░░░   26.36 % 
+Neovim                   22 hrs 54 mins      ██████████░░░░░░░░░░░░░░░   40.03 % 
+Firefox                  22 hrs 19 mins      ██████████░░░░░░░░░░░░░░░   39.00 % 
+Claude Code              12 hrs              █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
 
 💻 Operating System: 
-Linux                    54 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    57 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/07/2026 03:36:40 UTC
+ Last Updated on 27/07/2026 14:47:00 UTC
 <!--END_SECTION:waka-->
