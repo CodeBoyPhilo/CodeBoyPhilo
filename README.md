@@ -21,7 +21,9 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C632%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C628%20hrs%2023%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-347%20hrs%202%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -67,6 +69,30 @@ Claude Code              12 hrs              █████░░░░░░�
 Linux                    57 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 27/07/2026 14:47:00 UTC
+```text
+⏱ AI Coding Time: 28 hrs 7 mins (49.15%)
+
+✍️ 30,391 lines written by AI, 847 lines written by hand (97.29% AI-written)
+
+🔤 706,587,033 Input Tokens, 2,977,886 Output Tokens
+
+💵 $2485.75 Estimated AI Cost This Week
+
+🧠 82 AI Sessions, 228 AI Prompts
+
+Sonnet                   24,128 lines        ███████████████████░░░░░░   76.98 % 
+GPT                      4,901 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Opus                     2,315 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.29% of written lines came from AI
+📚 Verbose Prompter — average 6,622 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 3.77% of changed lines were hand-edited
+```
+
+
+ Last Updated on 28/07/2026 02:52:14 UTC
 <!--END_SECTION:waka-->
