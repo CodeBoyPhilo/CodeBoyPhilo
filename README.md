@@ -30,21 +30,21 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-🌆 Daytime                572 commits         ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-🌃 Evening                907 commits         ███████████░░░░░░░░░░░░░░   45.99 % 
-🌙 Night                  357 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+🌞 Morning                136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+🌆 Daytime                572 commits         ███████░░░░░░░░░░░░░░░░░░   28.99 % 
+🌃 Evening                907 commits         ███████████░░░░░░░░░░░░░░   45.97 % 
+🌙 Night                  358 commits         █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   287 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Monday                   288 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
 Tuesday                  228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Wednesday                382 commits         █████░░░░░░░░░░░░░░░░░░░░   19.37 % 
-Thursday                 309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Wednesday                382 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Thursday                 309 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
 Friday                   214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
 Saturday                 245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Sunday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Sunday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
 ```
 
 
@@ -54,44 +54,44 @@ Sunday                   307 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    16 hrs 13 mins      ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Python                   13 hrs 46 mins      ███████░░░░░░░░░░░░░░░░░░   28.15 % 
-Markdown                 10 hrs 22 mins      █████░░░░░░░░░░░░░░░░░░░░   21.22 % 
-TeX                      4 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Nix                      1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Other                    15 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Python                   13 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   27.87 % 
+TeX                      9 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Markdown                 7 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Nix                      1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
 
 🔥 Editors: 
-Neovim                   20 hrs 52 mins      ███████████░░░░░░░░░░░░░░   42.67 % 
-Firefox                  16 hrs 24 mins      ████████░░░░░░░░░░░░░░░░░   33.54 % 
-Claude Code              11 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+Neovim                   21 hrs 54 mins      ███████████░░░░░░░░░░░░░░   43.87 % 
+Firefox                  16 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   32.44 % 
+Claude Code              11 hrs 50 mins      ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
 
 💻 Operating System: 
-Linux                    48 hrs 55 mins      █████████████████████████   100.00 % 
+Linux                    49 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 52 mins (59.03%)
+⏱ AI Coding Time: 26 hrs 49 mins (53.7%)
 
-✍️ 32,600 lines written by AI, 239 lines written by hand (99.27% AI-written)
+✍️ 30,744 lines written by AI, 430 lines written by hand (98.62% AI-written)
 
-🔤 18,127,359 Input Tokens, 2,206,778 Output Tokens
+🔤 17,764,772 Input Tokens, 2,086,142 Output Tokens
 
-💵 $648.71 Estimated AI Cost This Week
+💵 $627.73 Estimated AI Cost This Week
 
-🧠 65 AI Sessions, 209 AI Prompts
+🧠 65 AI Sessions, 178 AI Prompts
 
-Opus                     25,638 lines        ██████████████████░░░░░░░   73.17 % 
-GPT                      9,399 lines         ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Opus                     26,621 lines        ████████████████████░░░░░   79.48 % 
+GPT                      6,871 lines         █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.27% of written lines came from AI
-📝 Concise Prompter — average 244 characters per prompt
+🤖 AI-Driven — 98.62% of written lines came from AI
+📝 Concise Prompter — average 277 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 1.0% of changed lines were hand-edited
+🚀 High AI Trust — 1.75% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 12:48:19 UTC
+ Last Updated on 17/08/2026 01:37:37 UTC
 <!--END_SECTION:waka-->
