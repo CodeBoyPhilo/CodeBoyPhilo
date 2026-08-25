@@ -30,21 +30,21 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-🌆 Daytime                561 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
-🌃 Evening                854 commits         ███████████░░░░░░░░░░░░░░   45.31 % 
-🌙 Night                  356 commits         █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+🌞 Morning                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+🌆 Daytime                561 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌃 Evening                857 commits         ███████████░░░░░░░░░░░░░░   45.39 % 
+🌙 Night                  356 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   262 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-Tuesday                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Wednesday                370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
-Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-Friday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Sunday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+Monday                   265 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Tuesday                  220 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+Wednesday                370 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Thursday                 293 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+Friday                   208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+Saturday                 235 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.45 % 
+Sunday                   297 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
 ```
 
 
@@ -54,45 +54,46 @@ Sunday                   297 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    18 hrs 59 mins      ███████░░░░░░░░░░░░░░░░░░   29.12 % 
-Markdown                 18 hrs 16 mins      ███████░░░░░░░░░░░░░░░░░░   28.02 % 
-Python                   17 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-TeX                      7 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Bash                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Other                    20 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   29.45 % 
+Markdown                 19 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+Python                   17 hrs 55 mins      ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+TeX                      7 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Bash                     1 hr 22 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.38 % 
-Neovim                   23 hrs 13 mins      █████████░░░░░░░░░░░░░░░░   35.60 % 
-Firefox                  17 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Claude Code              25 hrs 24 mins      █████████░░░░░░░░░░░░░░░░   36.87 % 
+Neovim                   25 hrs 5 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
+Firefox                  18 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.70 % 
 
 💻 Operating System: 
-Linux                    65 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    68 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 41 mins (66.98%)
+⏱ AI Coding Time: 45 hrs 31 mins (66.06%)
 
-✍️ 77,914 lines written by AI, 594 lines written by hand (99.24% AI-written)
+✍️ 89,369 lines written by AI, 648 lines written by hand (99.28% AI-written)
 
-🔤 31,564,216 Input Tokens, 5,268,738 Output Tokens
+🔤 33,205,274 Input Tokens, 5,579,353 Output Tokens
 
-💵 $905.22 Estimated AI Cost This Week
+💵 $947.53 Estimated AI Cost This Week
 
-🧠 132 AI Sessions, 316 AI Prompts
+🧠 133 AI Sessions, 349 AI Prompts
 
-Opus                     66,584 lines        █████████████████████░░░░   83.98 % 
-GPT                      7,869 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Deepseek                 4,831 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+Opus                     76,029 lines        █████████████████████░░░░   83.79 % 
+GPT                      9,601 lines         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Deepseek                 4,831 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
+Sonnet                   279 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.24% of written lines came from AI
-📄 Detailed Prompter — average 865 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.82% of changed lines were hand-edited
+🤖 AI-Driven — 99.28% of written lines came from AI
+📄 Detailed Prompter — average 938 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 12:58:40 UTC
+ Last Updated on 25/08/2026 01:34:55 UTC
 <!--END_SECTION:waka-->
