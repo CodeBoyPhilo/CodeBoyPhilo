@@ -21,9 +21,9 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C803%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C805%20hrs%2047%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-498%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-498%20hrs%2021%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -54,46 +54,46 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    30 hrs 48 mins      ███████████░░░░░░░░░░░░░░   44.22 % 
-TeX                      15 hrs 5 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Markdown                 8 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Python                   8 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Bash                     2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    28 hrs 52 mins      ████████████░░░░░░░░░░░░░   47.82 % 
+TeX                      15 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Markdown                 5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Python                   4 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Bash                     1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Neovim                   30 hrs 37 mins      ███████████░░░░░░░░░░░░░░   43.95 % 
-Firefox                  28 hrs 52 mins      ██████████░░░░░░░░░░░░░░░   41.45 % 
-Claude Code              10 hrs 10 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Neovim                   27 hrs 43 mins      ███████████░░░░░░░░░░░░░░   45.92 % 
+Firefox                  27 hrs 22 mins      ███████████░░░░░░░░░░░░░░   45.34 % 
+Claude Code              5 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 
 💻 Operating System: 
-Linux                    69 hrs 40 mins      █████████████████████████   100.00 % 
+Linux                    60 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 50 mins (38.53%)
+⏱ AI Coding Time: 18 hrs 48 mins (31.16%)
 
-✍️ 38,227 lines written by AI, 1,916 lines written by hand (95.23% AI-written)
+✍️ 24,221 lines written by AI, 1,959 lines written by hand (92.52% AI-written)
 
-🔤 15,724,849 Input Tokens, 2,370,539 Output Tokens
+🔤 11,144,856 Input Tokens, 1,478,504 Output Tokens
 
-💵 $401.33 Estimated AI Cost This Week
+💵 $282.31 Estimated AI Cost This Week
 
-🧠 80 AI Sessions, 274 AI Prompts
+🧠 59 AI Sessions, 220 AI Prompts
 
-Opus                     31,725 lines        ████████████████████░░░░░   80.45 % 
-GPT                      7,271 lines         █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Sonnet                   279 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Deepseek                 160 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+Opus                     19,443 lines        ███████████████████░░░░░░   75.90 % 
+GPT                      5,734 lines         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+Sonnet                   279 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Deepseek                 160 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.23% of written lines came from AI
-📄 Detailed Prompter — average 928 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 6.69% of changed lines were hand-edited
+🤖 AI-Driven — 92.52% of written lines came from AI
+📄 Detailed Prompter — average 735 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 10.32% of changed lines were hand-edited
 ```
 
 
- Last Updated on 30/08/2026 16:24:45 UTC
+ Last Updated on 31/08/2026 04:46:58 UTC
 <!--END_SECTION:waka-->
