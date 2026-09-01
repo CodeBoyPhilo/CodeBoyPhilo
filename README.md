@@ -54,45 +54,45 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    28 hrs 46 mins      █████████████░░░░░░░░░░░░   51.81 % 
-TeX                      16 hrs 40 mins      ████████░░░░░░░░░░░░░░░░░   30.01 % 
-Markdown                 2 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
-Python                   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Bash                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
+Other                    26 hrs 20 mins      █████████████░░░░░░░░░░░░   52.28 % 
+TeX                      15 hrs 20 mins      ████████░░░░░░░░░░░░░░░░░   30.46 % 
+Nix                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+Markdown                 1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+Python                   1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🔥 Editors: 
-Firefox                  27 hrs 39 mins      ████████████░░░░░░░░░░░░░   49.80 % 
-Neovim                   26 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.81 % 
-Claude Code              1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Neovim                   25 hrs 34 mins      █████████████░░░░░░░░░░░░   50.76 % 
+Firefox                  24 hrs 47 mins      ████████████░░░░░░░░░░░░░   49.23 % 
+Claude Code              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    55 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    50 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 22 mins (24.1%)
+⏱ AI Coding Time: 12 hrs 24 mins (24.63%)
 
-✍️ 6,798 lines written by AI, 1,920 lines written by hand (77.98% AI-written)
+✍️ 3,973 lines written by AI, 1,819 lines written by hand (68.59% AI-written)
 
-🔤 6,379,439 Input Tokens, 582,993 Output Tokens
+🔤 6,154,863 Input Tokens, 469,725 Output Tokens
 
-💵 $130.61 Estimated AI Cost This Week
+💵 $134.52 Estimated AI Cost This Week
 
-🧠 41 AI Sessions, 166 AI Prompts
+🧠 41 AI Sessions, 145 AI Prompts
 
-Opus                     4,128 lines         █████████████░░░░░░░░░░░░   51.15 % 
-GPT                      3,783 lines         ████████████░░░░░░░░░░░░░   46.87 % 
-Deepseek                 160 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+GPT                      3,963 lines         ████████████████░░░░░░░░░   64.88 % 
+Opus                     1,826 lines         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+Deepseek                 319 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.98% of written lines came from AI
-📄 Detailed Prompter — average 649 characters per prompt
+🤖 AI-Driven — 68.59% of written lines came from AI
+📄 Detailed Prompter — average 632 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 28.28% of changed lines were hand-edited
+🚀 High AI Trust — 37.68% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 04:27:09 UTC
+ Last Updated on 01/09/2026 16:21:21 UTC
 <!--END_SECTION:waka-->
