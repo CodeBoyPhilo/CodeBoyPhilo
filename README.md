@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C817%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2020%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2048%20mins-blue?style=flat)
 
@@ -54,43 +54,26 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    25 hrs 34 mins      █████████████████████░░░░   83.72 % 
-Python                   2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
-Markdown                 56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-TeX                      45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Nix                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    28 hrs 6 mins       █████████████████████░░░░   85.52 % 
+Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TeX                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Nix                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-Firefox                  26 hrs 47 mins      ██████████████████████░░░   87.73 % 
-Claude Code              2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Neovim                   1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
+Firefox                  29 hrs 19 mins      ██████████████████████░░░   89.22 % 
+Neovim                   3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
 
 💻 Operating System: 
-Linux                    30 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (8.25%)
-
-✍️ 4,132 lines written by AI, 71 lines written by hand (98.31% AI-written)
-
-🔤 1,109,652 Input Tokens, 408,150 Output Tokens
-
-💵 $51.47 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 11 AI Prompts
-
-Opus                     4,184 lines         █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.31% of written lines came from AI
-📝 Concise Prompter — average 85 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 25.1% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 10/09/2026 16:08:44 UTC
+ Last Updated on 11/09/2026 03:56:32 UTC
 <!--END_SECTION:waka-->
