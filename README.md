@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C820%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C822%20hrs-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2048%20mins-blue?style=flat)
 
@@ -54,18 +54,18 @@ Sunday                   306 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    28 hrs 6 mins       █████████████████████░░░░   85.52 % 
-Markdown                 1 hr 40 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
-TeX                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Python                   41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-Nix                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Other                    32 hrs 6 mins       █████████████████████░░░░   83.33 % 
+Markdown                 3 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+TeX                      1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Python                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Nix                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
 
 🔥 Editors: 
-Firefox                  29 hrs 19 mins      ██████████████████████░░░   89.22 % 
-Neovim                   3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
+Firefox                  33 hrs 20 mins      ██████████████████████░░░   86.55 % 
+Neovim                   5 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
 
 💻 Operating System: 
-Linux                    32 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,5 +75,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 16:12:40 UTC
+ Last Updated on 12/09/2026 03:58:37 UTC
 <!--END_SECTION:waka-->
