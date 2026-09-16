@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C830%20hrs%208%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C832%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2048%20mins-blue?style=flat)
 
@@ -30,21 +30,21 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
-🌆 Daytime                622 commits         ████████░░░░░░░░░░░░░░░░░   30.21 % 
-🌃 Evening                929 commits         ███████████░░░░░░░░░░░░░░   45.12 % 
-🌙 Night                  394 commits         █████░░░░░░░░░░░░░░░░░░░░   19.14 % 
+🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+🌆 Daytime                624 commits         ████████░░░░░░░░░░░░░░░░░   30.28 % 
+🌃 Evening                929 commits         ███████████░░░░░░░░░░░░░░   45.08 % 
+🌙 Night                  394 commits         █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
-Wednesday                397 commits         █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
-Thursday                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Saturday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+Monday                   295 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  242 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Wednesday                399 commits         █████░░░░░░░░░░░░░░░░░░░░   19.36 % 
+Thursday                 324 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
+Friday                   233 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
+Saturday                 248 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sunday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   320 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    24 hrs 38 mins      ████████████████░░░░░░░░░   62.89 % 
-Markdown                 8 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-TeX                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Python                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Nix                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    21 hrs 55 mins      ██████████████░░░░░░░░░░░   56.53 % 
+Markdown                 10 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+TeX                      4 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Python                   29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+Nix                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
 
 🔥 Editors: 
-Firefox                  26 hrs 5 mins       █████████████████░░░░░░░░   66.60 % 
-Neovim                   13 hrs 5 mins       ████████░░░░░░░░░░░░░░░░░   33.40 % 
+Firefox                  23 hrs 17 mins      ███████████████░░░░░░░░░░   60.07 % 
+Neovim                   15 hrs 28 mins      ██████████░░░░░░░░░░░░░░░   39.93 % 
 
 💻 Operating System: 
-Linux                    39 hrs 10 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,5 +75,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/09/2026 16:39:46 UTC
+ Last Updated on 16/09/2026 04:11:32 UTC
 <!--END_SECTION:waka-->
