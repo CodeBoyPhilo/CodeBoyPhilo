@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C837%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2048%20mins-blue?style=flat)
 
@@ -30,21 +30,21 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.32 % 
-🌆 Daytime                651 commits         ████████░░░░░░░░░░░░░░░░░   30.38 % 
-🌃 Evening                965 commits         ███████████░░░░░░░░░░░░░░   45.03 % 
-🌙 Night                  413 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+🌞 Morning                114 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+🌆 Daytime                653 commits         ████████░░░░░░░░░░░░░░░░░   30.44 % 
+🌃 Evening                965 commits         ███████████░░░░░░░░░░░░░░   44.99 % 
+🌙 Night                  413 commits         █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-Tuesday                  252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Wednesday                416 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
-Thursday                 337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Saturday                 256 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Sunday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.40 % 
+Monday                   307 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+Tuesday                  252 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Wednesday                416 commits         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
+Thursday                 337 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+Friday                   245 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
+Saturday                 258 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sunday                   330 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
 ```
 
 
@@ -54,18 +54,18 @@ Sunday                   330 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    21 hrs 51 mins      ██████████████░░░░░░░░░░░   55.45 % 
-Markdown                 12 hrs 49 mins      ████████░░░░░░░░░░░░░░░░░   32.51 % 
-TeX                      3 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Other                    19 hrs 44 mins      █████████████░░░░░░░░░░░░   50.38 % 
+Markdown                 14 hrs 59 mins      ██████████░░░░░░░░░░░░░░░   38.25 % 
+TeX                      3 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
 CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🔥 Editors: 
-Firefox                  22 hrs 7 mins       ██████████████░░░░░░░░░░░   56.11 % 
-Neovim                   17 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.89 % 
+Firefox                  19 hrs 59 mins      █████████████░░░░░░░░░░░░   50.99 % 
+Neovim                   19 hrs 12 mins      ████████████░░░░░░░░░░░░░   49.01 % 
 
 💻 Operating System: 
-Linux                    39 hrs 25 mins      █████████████████████████   100.00 % 
+Linux                    39 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,5 +75,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/09/2026 16:09:45 UTC
+ Last Updated on 19/09/2026 03:59:51 UTC
 <!--END_SECTION:waka-->
