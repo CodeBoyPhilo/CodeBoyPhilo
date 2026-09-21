@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C841%20hrs%2031%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-506%20hrs%2048%20mins-blue?style=flat)
 
@@ -54,18 +54,18 @@ Sunday                   378 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    18 hrs 59 mins      █████████████░░░░░░░░░░░░   50.37 % 
-Markdown                 14 hrs 36 mins      ██████████░░░░░░░░░░░░░░░   38.73 % 
-TeX                      3 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
-CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Other                    19 hrs 20 mins      ██████████████░░░░░░░░░░░   55.36 % 
+Markdown                 12 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   35.07 % 
+TeX                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Text                     54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+CSV                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-Firefox                  19 hrs 14 mins      █████████████░░░░░░░░░░░░   51.02 % 
-Neovim                   18 hrs 28 mins      ████████████░░░░░░░░░░░░░   48.98 % 
+Firefox                  19 hrs 37 mins      ██████████████░░░░░░░░░░░   56.16 % 
+Neovim                   15 hrs 18 mins      ███████████░░░░░░░░░░░░░░   43.84 % 
 
 💻 Operating System: 
-Linux                    37 hrs 42 mins      █████████████████████████   100.00 % 
+Linux                    34 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -75,5 +75,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 20/09/2026 15:47:04 UTC
+ Last Updated on 21/09/2026 04:15:57 UTC
 <!--END_SECTION:waka-->
