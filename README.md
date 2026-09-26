@@ -54,17 +54,16 @@ Sunday                   378 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    11 hrs 46 mins      ███████████████████░░░░░░   76.03 % 
-Markdown                 3 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
-TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    9 hrs 49 mins       █████████████████████████   98.33 % 
+TeX                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Firefox                  11 hrs 50 mins      ███████████████████░░░░░░   76.50 % 
-Neovim                   3 hrs 38 mins       ██████░░░░░░░░░░░░░░░░░░░   23.50 % 
+Firefox                  9 hrs 54 mins       █████████████████████████   99.10 % 
+Neovim                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
 
 💻 Operating System: 
-Linux                    15 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    9 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +73,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 25/09/2026 16:56:12 UTC
+ Last Updated on 26/09/2026 04:22:19 UTC
 <!--END_SECTION:waka-->
