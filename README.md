@@ -54,26 +54,43 @@ Sunday                   378 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    11 hrs 50 mins      ██████████████████████░░░   87.29 % 
-Markdown                 1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-TeX                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Other                    11 hrs 51 mins      ███████████████████░░░░░░   77.70 % 
+Markdown                 2 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.92 % 
+Nix                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-Firefox                  11 hrs 55 mins      ██████████████████████░░░   87.86 % 
-Neovim                   1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Firefox                  12 hrs 14 mins      ████████████████████░░░░░   80.21 % 
+Neovim                   1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Claude Code              1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 💻 Operating System: 
-Linux                    13 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 1 hr 19 mins (8.7%)
+
+✍️ 840 lines written by AI, 130 lines written by hand (86.6% AI-written)
+
+🔤 530,791 Input Tokens, 186,862 Output Tokens
+
+💵 $41.41 Estimated AI Cost This Week
+
+🧠 5 AI Sessions, 4 AI Prompts
+
+Opus                     840 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 86.6% of written lines came from AI
+📝 Concise Prompter — average 62 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 20.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/10/2026 04:57:46 UTC
+ Last Updated on 02/10/2026 17:42:42 UTC
 <!--END_SECTION:waka-->
