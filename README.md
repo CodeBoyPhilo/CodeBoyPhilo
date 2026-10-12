@@ -30,21 +30,21 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
-🌆 Daytime                791 commits         ████████░░░░░░░░░░░░░░░░░   31.35 % 
-🌃 Evening                1117 commits        ███████████░░░░░░░░░░░░░░   44.27 % 
-🌙 Night                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+🌞 Morning                119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+🌆 Daytime                792 commits         ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌃 Evening                1117 commits        ███████████░░░░░░░░░░░░░░   44.26 % 
+🌙 Night                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   358 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 Tuesday                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Wednesday                490 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Thursday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+Wednesday                490 commits         █████░░░░░░░░░░░░░░░░░░░░   19.41 % 
+Thursday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
 ```
 
 
@@ -54,17 +54,17 @@ Sunday                   395 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    6 hrs 27 mins       █████████████████░░░░░░░░   69.88 % 
-TeX                      2 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    6 hrs 30 mins       █████████████████░░░░░░░░   68.62 % 
+TeX                      2 hrs 57 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Firefox                  6 hrs 31 mins       ██████████████████░░░░░░░   70.57 % 
-Neovim                   2 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   29.43 % 
+Firefox                  6 hrs 36 mins       █████████████████░░░░░░░░   69.62 % 
+Neovim                   2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   30.38 % 
 
 💻 Operating System: 
-Linux                    9 hrs 14 mins       █████████████████████████   100.00 % 
+Linux                    9 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +74,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/10/2026 05:17:20 UTC
+ Last Updated on 12/10/2026 21:07:50 UTC
 <!--END_SECTION:waka-->
