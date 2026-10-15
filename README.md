@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C848%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-508%20hrs%2020%20mins-blue?style=flat)
 
@@ -31,20 +31,20 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 
 ```text
 🌞 Morning                119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-🌆 Daytime                793 commits         ████████░░░░░░░░░░░░░░░░░   31.41 % 
-🌃 Evening                1117 commits        ███████████░░░░░░░░░░░░░░   44.24 % 
-🌙 Night                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   19.64 % 
+🌆 Daytime                795 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                1117 commits        ███████████░░░░░░░░░░░░░░   44.20 % 
+🌙 Night                  496 commits         █████░░░░░░░░░░░░░░░░░░░░   19.63 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+Monday                   359 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
 Tuesday                  292 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Wednesday                491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.45 % 
-Thursday                 391 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Wednesday                491 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Thursday                 393 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.55 % 
+Friday                   293 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Saturday                 304 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+Sunday                   395 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
 ```
 
 
@@ -54,17 +54,17 @@ Sunday                   395 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    7 hrs 22 mins       █████████████████░░░░░░░░   69.43 % 
-TeX                      3 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   30.45 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    8 hrs 30 mins       ██████████████████░░░░░░░   70.29 % 
+TeX                      3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Firefox                  7 hrs 43 mins       ██████████████████░░░░░░░   72.84 % 
-Neovim                   2 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   27.16 % 
+Firefox                  9 hrs 13 mins       ███████████████████░░░░░░   76.24 % 
+Neovim                   2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
 
 💻 Operating System: 
-Linux                    10 hrs 36 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +74,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 14/10/2026 16:54:23 UTC
+ Last Updated on 15/10/2026 04:00:24 UTC
 <!--END_SECTION:waka-->
