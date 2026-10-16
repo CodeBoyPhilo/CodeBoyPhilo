@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C849%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-508%20hrs%2020%20mins-blue?style=flat)
 
@@ -54,17 +54,16 @@ Sunday                   395 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    8 hrs 30 mins       ██████████████████░░░░░░░   70.29 % 
-TeX                      3 hrs 34 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    6 hrs 30 mins       █████████████████████░░░░   85.20 % 
+TeX                      1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Firefox                  9 hrs 13 mins       ███████████████████░░░░░░   76.24 % 
-Neovim                   2 hrs 52 mins       ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+Firefox                  7 hrs 10 mins       ████████████████████████░   94.03 % 
+Neovim                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 💻 Operating System: 
-Linux                    12 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +73,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/10/2026 16:40:17 UTC
+ Last Updated on 16/10/2026 03:57:20 UTC
 <!--END_SECTION:waka-->
