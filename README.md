@@ -21,7 +21,7 @@ Greetings! This is Philo Wu. I am currently a PhD candidate in Business Analytic
 - **Tools**: Git, Docker, Neo4j, Jujutsu, neovim, and more.
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C850%20hrs%2054%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-508%20hrs%2020%20mins-blue?style=flat)
 
@@ -54,17 +54,18 @@ Sunday                   399 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    7 hrs 59 mins       ███████████████████░░░░░░   76.17 % 
-TeX                      2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    9 hrs 34 mins       ███████████████████░░░░░░   77.34 % 
+TeX                      2 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+Nix                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+BibTeX                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-Firefox                  8 hrs 51 mins       █████████████████████░░░░   84.43 % 
-Neovim                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+Firefox                  10 hrs 29 mins      █████████████████████░░░░   84.74 % 
+Neovim                   1 hr 53 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
 
 💻 Operating System: 
-Linux                    10 hrs 29 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -74,5 +75,5 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 18/10/2026 15:39:41 UTC
+ Last Updated on 19/10/2026 04:02:23 UTC
 <!--END_SECTION:waka-->
