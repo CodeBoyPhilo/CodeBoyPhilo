@@ -54,27 +54,27 @@ Sunday                   399 commits         ████░░░░░░░�
 🕑︎ Time Zone: Australia/Sydney
 
 💬 Programming Languages: 
-Other                    9 hrs 3 mins        ███████████████░░░░░░░░░░   61.39 % 
-Markdown                 1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-TeX                      1 hr 22 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
-Python                   1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
-Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Other                    6 hrs 17 mins       ███████████████░░░░░░░░░░   59.29 % 
+Markdown                 1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+Python                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
+Bash                     34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🔥 Editors: 
-Firefox                  10 hrs 12 mins      █████████████████░░░░░░░░   69.19 % 
-Claude Code              2 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Neovim                   2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Firefox                  7 hrs 14 mins       █████████████████░░░░░░░░   68.25 % 
+Claude Code              2 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.47 % 
+Neovim                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
 
 💻 Operating System: 
-Linux                    14 hrs 44 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 22 mins (16.16%)
+⏱ AI Coding Time: 2 hrs 22 mins (22.47%)
 
-✍️ 4,479 lines written by AI, 71 lines written by hand (98.44% AI-written)
+✍️ 4,479 lines written by AI, 27 lines written by hand (99.4% AI-written)
 
 🔤 930,877 Input Tokens, 358,898 Output Tokens
 
@@ -85,12 +85,12 @@ Linux                    14 hrs 44 mins      ███████████�
 Opus                     4,491 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.44% of written lines came from AI
+🤖 AI-Driven — 99.4% of written lines came from AI
 📝 Concise Prompter — average 64 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.52% of changed lines were hand-edited
+🚀 High AI Trust — 0.64% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/10/2026 16:48:00 UTC
+ Last Updated on 24/10/2026 04:00:58 UTC
 <!--END_SECTION:waka-->
